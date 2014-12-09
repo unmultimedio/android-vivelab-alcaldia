@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:id="@+id/main_layout">
+
+    <fragment
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:name="net.sikuani.listasfragmentos.NamesFragment"
+        android:id="@+id/fragment_sender" />
+
+    <fragment
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:name="net.sikuani.listasfragmentos.NamesReceiverFragment"
+        android:id="@+id/fragment_receiver" />
+
+</LinearLayout>

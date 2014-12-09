@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Listas Fragmentos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="people_names">
+        <item>Pedro</item>
+        <item>Juan</item>
+        <item>Camilo</item>
+        <item>Andrea</item>
+        <item>José</item>
+        <item>Paula</item>
+        <item>Felipe</item>
+        <item>Ángela</item>
+        <item>Adriana</item>
+    </string-array>
+
+</resources>

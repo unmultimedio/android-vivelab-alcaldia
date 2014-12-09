@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NombresListas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="duplicate_item_text">Duplicar</string>
+    <string name="delete_item_text">Eliminar</string>
+
+    <string-array name="people_names">
+        <item>Julian</item>
+        <item>Steven</item>
+        <item>Johan</item>
+        <item>Luis</item>
+        <item>Fernando</item>
+        <item>Oscar</item>
+        <item>Roberto</item>
+    </string-array>
+
+</resources>

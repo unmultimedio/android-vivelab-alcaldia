@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/duplicate_item"
+        android:title="@string/duplicate_item_text"
+        android:icon="@android:drawable/ic_input_add"/>
+    <item android:id="@+id/delete_item"
+        android:title="@string/delete_item_text"
+        android:icon="@android:drawable/ic_input_add"/>
+</menu>

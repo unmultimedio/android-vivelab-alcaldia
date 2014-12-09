@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SharedPreferences</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="varsLabel">Ingresa los datos de las variables</string>
+    <string name="var1Label">Variable caracter</string>
+    <string name="var2Label">Variable entera</string>
+    <string name="var3Label">Variable booleana</string>
+    <string name="set_btn">Guardar</string>
+    <string name="clear_prefs_btn">Limpiar</string>
+    <string name="no_data">NO_DATA</string>
+
+</resources>
